@@ -32,3 +32,6 @@ The script reads input from a file and stores the words in a list W_list.
 It measures the execution time using the time module.
 It calls the longest_compword and secon_longcomp functions to find the longest and second-longest compound words.
 Finally, it prints the results along with the execution time.
+
+Performance:
+The script may take varying amounts of time to process based on the number of words and their lengths. The complexity of finding compounded words increases with the size and complexity of the input word list.
